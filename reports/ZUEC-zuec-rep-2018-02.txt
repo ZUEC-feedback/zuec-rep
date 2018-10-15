@@ -1,0 +1,98 @@
+Report for Institution Code ZUEC, Resource zuec-rep
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 52
+Number of records retrieved in searches: 327
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 15
+	Country: Canada ; Times: 2
+	Country: Portugal ; Times: 3
+	Country: Unknown ; Times: 12
+	Country: United States ; Times: 14
+	Country: Colombia ; Times: 4
+	Country: Venezuela ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-14 ; Times: 1
+	Date: 2018-02-20 ; Times: 2
+	Date: 2018-02-23 ; Times: 4
+	Date: 2018-02-17 ; Times: 1
+	Date: 2018-02-10 ; Times: 5
+	Date: 2018-02-12 ; Times: 2
+	Date: 2018-02-27 ; Times: 5
+	Date: 2018-02-13 ; Times: 1
+	Date: 2018-02-28 ; Times: 2
+	Date: 2018-02-26 ; Times: 1
+	Date: 2018-02-19 ; Times: 1
+	Date: 2018-02-22 ; Times: 2
+	Date: 2018-02-02 ; Times: 4
+	Date: 2018-02-25 ; Times: 1
+	Date: 2018-02-07 ; Times: 13
+	Date: 2018-02-06 ; Times: 1
+	Date: 2018-02-05 ; Times: 4
+	Date: 2018-02-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Anota" ; Times: 1
+	Query: "eunectes notaeus" ; Times: 1
+	Query: "Atractus trihedrurus" ; Times: 1
+	Query: "Tomodon dorsatus" ; Times: 4
+	Query: "specificepithet:neuwiedii genus:Pseudoboa" ; Times: 1
+	Query: "lachesis muta" ; Times: 1
+	Query: "Dipsas albifrons" ; Times: 1
+	Query: "Sibynomorphus neuwiedi" ; Times: 1
+	Query: "Amphisbaena alba" ; Times: 1
+	Query: "family:Colubridae catalognumber:1322" ; Times: 2
+	Query: "catalognumber:1639" ; Times: 1
+	Query: "genus:drymarchon (male OR female) hassex:1" ; Times: 1
+	Query: "Chrysocyon brachyurus" ; Times: 2
+	Query: "tantilla boipiranga" ; Times: 2
+	Query: "Norops trachyderma" ; Times: 3
+	Query: "Caiman yacare" ; Times: 1
+	Query: "Dipsas catesbyi" ; Times: 4
+	Query: "amphisbaena alba" ; Times: 1
+	Query: "Dipsas indica" ; Times: 2
+	Query: "genus:Gonatodes family:Sphaerodactylidae order:Squamata class:reptilia year &gt;= 2000 year &lt;= 2018" ; Times: 2
+	Query: "Norops chrysolepis" ; Times: 1
+	Query: "catalognumber:1508" ; Times: 1
+	Query: "Dama dama mappable:1" ; Times: 3
+	Query: "Liotyphlops schubarti" ; Times: 2
+	Query: "Tupinambis merianae" ; Times: 2
+	Query: "Atractus albuquerquei" ; Times: 1
+	Query: "Lachesis muta" ; Times: 1
+	Query: "specificepithet:atrox genus:Bothrops country:&#34;Colombia&#34;" ; Times: 4
+	Query: "Atractus zebrinus" ; Times: 1
+	Query: "Atractus reticulatus" ; Times: 1
+	Query: "Sibynomorphus mikanii" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 1892 download events in this period)
+Total number of records downloaded: 11
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Brazil ; Times: 2
+	Country: South Africa ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-14 ; Times: 2
+	Date: 2018-02-20 ; Times: 2
+	Date: 2018-02-01 ; Times: 1
+	Date: 2018-02-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Cerdocyon thous" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Podocnemis unifilis" ; Times: 1
+	Query: "Chrysocyon brachyurus" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "order:Squamata lengthtype:snout-vent length haslength:1" ; Times: 1
+
+
+End of report.
