@@ -1,0 +1,146 @@
+Report for Institution Code ZUEC, Resource zuec-rep
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 124
+Number of records retrieved in searches: 659
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 18
+	Country: Israel ; Times: 14
+	Country: Uruguay ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: United States ; Times: 83
+	Country: Peru ; Times: 3
+	Country: Switzerland ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-01 ; Times: 2
+	Date: 2018-04-12 ; Times: 4
+	Date: 2018-04-10 ; Times: 2
+	Date: 2018-04-02 ; Times: 1
+	Date: 2018-04-05 ; Times: 6
+	Date: 2018-04-17 ; Times: 43
+	Date: 2018-04-14 ; Times: 3
+	Date: 2018-04-13 ; Times: 10
+	Date: 2018-04-08 ; Times: 1
+	Date: 2018-04-18 ; Times: 19
+	Date: 2018-04-15 ; Times: 2
+	Date: 2018-04-11 ; Times: 1
+	Date: 2018-04-16 ; Times: 2
+	Date: 2018-04-21 ; Times: 5
+	Date: 2018-04-20 ; Times: 4
+	Date: 2018-04-27 ; Times: 1
+	Date: 2018-04-24 ; Times: 18
+
+List of queries that retrieved data from the resource: 
+	Query: "chrysocyon" ; Times: 1
+	Query: "specificepithet:anomalus genus:Drepanoides mappable:1" ; Times: 1
+	Query: "Oxyrhopus trigeminus" ; Times: 1
+	Query: "Siphlophis compressus" ; Times: 1
+	Query: "specificepithet:plumbea genus:Clelia mappable:1" ; Times: 1
+	Query: "specificepithet:melanogenys genus:Oxyrhopus mappable:1" ; Times: 1
+	Query: "specificepithet:trigeminus genus:Oxyrhopus mappable:1" ; Times: 1
+	Query: "specificepithet:frontalis genus:micrurus" ; Times: 2
+	Query: "Pseudoboa nigra" ; Times: 1
+	Query: "specificepithet:bicolor genus:Mussurana mappable:1" ; Times: 1
+	Query: "Tropidophis taczanowskyi" ; Times: 1
+	Query: "Xenodon merremii" ; Times: 1
+	Query: "specificepithet:montana genus:Mussurana mappable:1" ; Times: 1
+	Query: "Anomalepididae" ; Times: 5
+	Query: "caiman latirostris" ; Times: 33
+	Query: "Uromacerina ricardinii" ; Times: 1
+	Query: "genus:Lygophis" ; Times: 1
+	Query: "specificepithet:guerini genus:Phimophis mappable:1" ; Times: 1
+	Query: "Enyalius bilineatus" ; Times: 1
+	Query: "Liotyphlops ternetzii" ; Times: 3
+	Query: "Pseudoboa haasi" ; Times: 5
+	Query: "genus:drymobius sex:male OR female" ; Times: 1
+	Query: "specificepithet:rhombifer genus:Oxyrhopus mappable:1" ; Times: 1
+	Query: "specificepithet:neuwiedii genus:Pseudoboa mappable:1" ; Times: 1
+	Query: "specificepithet:maculata genus:Boiruna mappable:1" ; Times: 1
+	Query: "Philodryas psammophidea" ; Times: 1
+	Query: "Caiman yacare" ; Times: 25
+	Query: "Erythrolamprus typhlus" ; Times: 1
+	Query: "Oxyrhopus guibei" ; Times: 1
+	Query: "specificepithet:pulcher genus:Siphlophis mappable:1" ; Times: 1
+	Query: "specificepithet:guibei genus:Oxyrhopus mappable:1" ; Times: 1
+	Query: "Caiman latirostris" ; Times: 3
+	Query: "genus:Leptodeira sex:male OR female" ; Times: 2
+	Query: "specificepithet:nigra genus:Pseudoboa mappable:1" ; Times: 1
+	Query: "specificepithet:clathratus genus:Oxyrhopus mappable:1" ; Times: 1
+	Query: "specificepithet:compressus genus:Siphlophis mappable:1" ; Times: 1
+	Query: "liotyphlops schubarti" ; Times: 9
+	Query: "Caiman crocodilus mappable:1 year&gt;=1980" ; Times: 2
+	Query: "Thamnodynastes chaquensis" ; Times: 1
+	Query: "genus:drymarchon sex:male OR female" ; Times: 1
+	Query: "specificepithet:corallinus genus:micrurus" ; Times: 3
+	Query: "specificepithet:brazili genus:Rhachidelus mappable:1" ; Times: 1
+	Query: "Oxybelis fulgidus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 34 (out of 1359 download events in this period)
+Total number of records downloaded: 396
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Uruguay ; Times: 1
+	Country: United States ; Times: 27
+	Country: Colombia ; Times: 2
+	Country: Switzerland ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-13 ; Times: 1
+	Date: 2018-04-10 ; Times: 3
+	Date: 2018-04-16 ; Times: 1
+	Date: 2018-04-17 ; Times: 1
+	Date: 2018-04-15 ; Times: 2
+	Date: 2018-04-09 ; Times: 1
+	Date: 2018-04-08 ; Times: 1
+	Date: 2018-04-23 ; Times: 2
+	Date: 2018-04-22 ; Times: 1
+	Date: 2018-04-20 ; Times: 1
+	Date: 2018-04-26 ; Times: 1
+	Date: 2018-04-24 ; Times: 19
+
+List of queries that retrieved data from the resource: 
+	Query: "chrysocyon" ; Times: 1
+	Query: "Enyalius bilineatus" ; Times: 1
+	Query: "heloderma" ; Times: 2
+	Query: "specificepithet:plumbea genus:Clelia mappable:1" ; Times: 1
+	Query: "specificepithet:melanogenys genus:Oxyrhopus mappable:1" ; Times: 1
+	Query: "specificepithet:trigeminus genus:Oxyrhopus mappable:1" ; Times: 1
+	Query: "genus:crotalus sex:male OR female" ; Times: 1
+	Query: "specificepithet:bicolor genus:Mussurana mappable:1" ; Times: 1
+	Query: "Tropidophis taczanowskyi" ; Times: 1
+	Query: "specificepithet:montana genus:Mussurana mappable:1" ; Times: 1
+	Query: "genus:Micrurus sex:male OR female" ; Times: 1
+	Query: "specificepithet:guerini genus:Phimophis mappable:1" ; Times: 1
+	Query: "specificepithet:anomalus genus:Drepanoides mappable:1" ; Times: 1
+	Query: "genus:drymarchon sex:male OR female" ; Times: 1
+	Query: "bothrops atrox" ; Times: 2
+	Query: "Siphlophis compressus" ; Times: 1
+	Query: "specificepithet:rhombifer genus:Oxyrhopus mappable:1" ; Times: 1
+	Query: "specificepithet:neuwiedii genus:Pseudoboa mappable:1" ; Times: 1
+	Query: "specificepithet:maculata genus:Boiruna mappable:1" ; Times: 1
+	Query: "caracara" ; Times: 1
+	Query: "specificepithet:pulcher genus:Siphlophis mappable:1" ; Times: 1
+	Query: "specificepithet:guibei genus:Oxyrhopus mappable:1" ; Times: 1
+	Query: "specificepithet:nigra genus:Pseudoboa mappable:1" ; Times: 1
+	Query: "specificepithet:petolarius genus:Oxyrhopus mappable:1" ; Times: 1
+	Query: "specificepithet:clathratus genus:Oxyrhopus mappable:1" ; Times: 1
+	Query: "specificepithet:compressus genus:Siphlophis mappable:1" ; Times: 1
+	Query: "genus:tantilla sex:male OR female" ; Times: 2
+	Query: "specificepithet:clelia genus:Clelia mappable:1" ; Times: 1
+	Query: "genus:Crotalus sex:Male OR Female" ; Times: 1
+	Query: "specificepithet:brazili genus:Rhachidelus mappable:1" ; Times: 1
+	Query: "Oxybelis fulgidus" ; Times: 1
+
+
+End of report.
