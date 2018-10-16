@@ -1,0 +1,137 @@
+Report for Institution Code ZUEC, Resource zuec-rep
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 241
+Number of records retrieved in searches: 4164
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 11
+	Country: United States ; Times: 216
+	Country: Israel ; Times: 11
+	Country: Colombia ; Times: 2
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-06 ; Times: 9
+	Date: 2018-03-28 ; Times: 23
+	Date: 2018-03-22 ; Times: 2
+	Date: 2018-03-10 ; Times: 5
+	Date: 2018-03-12 ; Times: 3
+	Date: 2018-03-01 ; Times: 3
+	Date: 2018-03-02 ; Times: 9
+	Date: 2018-03-03 ; Times: 11
+	Date: 2018-03-04 ; Times: 1
+	Date: 2018-03-05 ; Times: 7
+	Date: 2018-03-11 ; Times: 2
+	Date: 2018-03-29 ; Times: 2
+	Date: 2018-03-26 ; Times: 62
+	Date: 2018-03-13 ; Times: 1
+	Date: 2018-03-27 ; Times: 15
+	Date: 2018-03-25 ; Times: 1
+	Date: 2018-03-31 ; Times: 7
+	Date: 2018-03-23 ; Times: 19
+	Date: 2018-03-20 ; Times: 24
+	Date: 2018-03-21 ; Times: 35
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Drymobius specificepithet:rhombifer" ; Times: 5
+	Query: "genus:Erythrolamprus" ; Times: 4
+	Query: "Chironius laevicollis mappable:1" ; Times: 1
+	Query: "Bothrops brazili" ; Times: 1
+	Query: "genus:Clelia specificepithet:clelia" ; Times: 5
+	Query: "specificepithet:melanogenys genus:Oxyrhopus mappable:1" ; Times: 1
+	Query: "Liolaemus occipitalis" ; Times: 1
+	Query: "Eunectes murinus" ; Times: 2
+	Query: "genus:Boa specificepithet:constrictor" ; Times: 2
+	Query: "genus:Drymoluber specificepithet:dichrous" ; Times: 5
+	Query: "genus:Xenopholis specificepithet:scalaris" ; Times: 5
+	Query: "genus:Taeniophallus specificepithet:occipitalis" ; Times: 5
+	Query: "genus:Eunectes specificepithet:murinus" ; Times: 5
+	Query: "Tropidurus hygomi" ; Times: 1
+	Query: "genus:Helicops specificepithet:leopardinus" ; Times: 5
+	Query: "class:Reptilia stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34; AND (NOT UTA)" ; Times: 1
+	Query: "genus:Corallus specificepithet:caninus" ; Times: 5
+	Query: "Amphisbaena alba" ; Times: 2
+	Query: "genus:Thecadactylus specificepithet:rapicauda" ; Times: 5
+	Query: "genus:Leptodeira specificepithet:annulata" ; Times: 2
+	Query: "genus:Dipsas specificepithet:catesbyi" ; Times: 5
+	Query: "genus:Gonatodes specificepithet:humeralis" ; Times: 2
+	Query: "genus:Bothrops specificepithet:atrox" ; Times: 2
+	Query: "genus:Spilotes specificepithet:pullatus" ; Times: 5
+	Query: "genus:Chironius specificepithet:carinatus" ; Times: 5
+	Query: "Chironius foveatus mappable:1" ; Times: 1
+	Query: "Chrysocyon brachyurus" ; Times: 4
+	Query: "genus:Pseudoboa specificepithet:nigra" ; Times: 4
+	Query: "genus:Philodryas specificepithet:olfersii" ; Times: 6
+	Query: "Paleosuchus" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34;" ; Times: 2
+	Query: "genus:Drymarchon specificepithet:corais" ; Times: 5
+	Query: "Caiman yacare" ; Times: 42
+	Query: "genus:Crotalus specificepithet:durissus" ; Times: 5
+	Query: "class:Reptilia stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34; AND (NOT UTA NOT MCZ)" ; Times: 2
+	Query: "genus:Oxyrhopus specificepithet:rhombifer" ; Times: 5
+	Query: "genus:Oxybelis specificepithet:aeneus" ; Times: 2
+	Query: "Bothrops jararacussu" ; Times: 1
+	Query: "genus:Imantodes specificepithet:cenchoa" ; Times: 2
+	Query: "genus:Amphisbaena (Lucia )" ; Times: 1
+	Query: "Oxyrhopus melanogenys" ; Times: 1
+	Query: "genus:Pseudoboa specificepithet:neuwiedii" ; Times: 4
+	Query: "genus:Bothrops specificepithet:sp" ; Times: 5
+	Query: "genus:Leptophis specificepithet:ahaetulla" ; Times: 5
+	Query: "genus:Tomodon specificepithet:dorsatus" ; Times: 5
+	Query: "paleosuchus" ; Times: 1
+	Query: "genus:Bothrops specificepithet:moojeni" ; Times: 5
+	Query: "genus:Thamnodynastes specificepithet:strigatus" ; Times: 5
+	Query: "Chironius fuscus mappable:1" ; Times: 1
+	Query: "genus:Dracaena specificepithet:guianensis" ; Times: 5
+	Query: "genus:Anilius specificepithet:scytale" ; Times: 5
+	Query: "specificepithet:durissus genus:crotalus year &gt;= 1990" ; Times: 2
+	Query: "Kentropyx vanzoi" ; Times: 3
+	Query: "Atractus pantostictus" ; Times: 2
+	Query: "Bothrops bilineatus" ; Times: 1
+	Query: "genus:Xenodon specificepithet:neuwiedii" ; Times: 5
+	Query: "genus:Chironius specificepithet:fuscus" ; Times: 5
+	Query: "genus:Oxyrhopus specificepithet:guibei" ; Times: 5
+	Query: "genus:Phrynops specificepithet:geoffroanus" ; Times: 6
+	Query: "specificepithet:petolarius genus:Oxyrhopus" ; Times: 2
+	Query: "specificepithet:atrox genus:Bothrops stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Micrurus averyi" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 1284 download events in this period)
+Total number of records downloaded: 88
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: United States ; Times: 2
+	Country: Israel ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-02 ; Times: 1
+	Date: 2018-03-03 ; Times: 1
+	Date: 2018-03-04 ; Times: 1
+	Date: 2018-03-12 ; Times: 3
+	Date: 2018-03-10 ; Times: 2
+	Date: 2018-03-31 ; Times: 1
+	Date: 2018-03-30 ; Times: 1
+	Date: 2018-03-20 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Bothrops jararacussu" ; Times: 1
+	Query: "Chironius laevicollis mappable:1" ; Times: 1
+	Query: "Chironius fuscus mappable:1" ; Times: 1
+	Query: "Bothrops brazili" ; Times: 1
+	Query: "cerdocyon thous" ; Times: 5
+	Query: "specificepithet:melanogenys genus:Oxyrhopus mappable:1" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Chironius exoletus mappable:1" ; Times: 1
+	Query: "Chrysocyon brachyurus" ; Times: 2
+	Query: "Tropidurus hygomi" ; Times: 1
+
+
+End of report.
