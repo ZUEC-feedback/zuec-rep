@@ -1,0 +1,121 @@
+Report for Institution Code ZUEC, Resource zuec-rep
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 105
+Number of records retrieved in searches: 1568
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 49
+	Country: United States ; Times: 14
+	Country: Mexico ; Times: 1
+	Country: United Kingdom ; Times: 39
+	Country: Austria ; Times: 1
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-11 ; Times: 23
+	Date: 2018-12-20 ; Times: 1
+	Date: 2018-12-22 ; Times: 2
+	Date: 2018-12-23 ; Times: 1
+	Date: 2018-12-19 ; Times: 2
+	Date: 2018-12-09 ; Times: 8
+	Date: 2018-12-04 ; Times: 42
+	Date: 2018-12-05 ; Times: 25
+	Date: 2018-12-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Bothrops itapetiningae" ; Times: 1
+	Query: "Helicops angulatus mappable:1" ; Times: 1
+	Query: "bothrops insularis" ; Times: 1
+	Query: "Erythrolamprus poecilogyrus mappable:1" ; Times: 1
+	Query: "Oxyrhopus trigeminus mappable:1" ; Times: 1
+	Query: "Bothrops moojeni mappable:1" ; Times: 1
+	Query: "Leptodeira annulata mappable:1" ; Times: 1
+	Query: "Trachylepis atlantica" ; Times: 11
+	Query: "Tantilla melanocephala mappable:1" ; Times: 1
+	Query: "Bothrops erythromelas mappable:1" ; Times: 1
+	Query: "Hydrodynastes gigas mappable:1" ; Times: 1
+	Query: "specificepithet:gigas genus:Hydrodynastes" ; Times: 1
+	Query: "lachesis muta mappable:1" ; Times: 5
+	Query: "bothrops itapetiningae" ; Times: 1
+	Query: "Erythrolamprus reginae mappable:1" ; Times: 1
+	Query: "Chironius flavolineatus mappable:1" ; Times: 1
+	Query: "Lygodactylus klugei" ; Times: 1
+	Query: "Sibynomorphus mikanii mappable:1" ; Times: 1
+	Query: "cerdocyon thous mappable:1" ; Times: 1
+	Query: "Tropidurus semitaeniatus" ; Times: 14
+	Query: "Corallus hortulanus mappable:1" ; Times: 2
+	Query: "Philodryas nattereri mappable:1" ; Times: 1
+	Query: "Bothrops neuwiedi mappable:1" ; Times: 1
+	Query: "Crotalus durissus mappable:1" ; Times: 1
+	Query: "Thamnodynastes hypoconia mappable:1" ; Times: 1
+	Query: "Micrurus corallinus mappable:1" ; Times: 1
+	Query: "Erythrolamprus viridis mappable:1" ; Times: 1
+	Query: "Spilotes pullatus mappable:1" ; Times: 1
+	Query: "Micrurus ibiboboca mappable:1" ; Times: 1
+	Query: "Xenodon merremii mappable:1" ; Times: 1
+	Query: "Leptophis ahaetulla mappable:1" ; Times: 1
+	Query: "Erythrolamprus mossoroensis mappable:1" ; Times: 1
+	Query: "bothriopsis" ; Times: 1
+	Query: "Bothrops alcatraz" ; Times: 2
+	Query: "Amerotyphlops brongersmianus mappable:1" ; Times: 1
+	Query: "Pseudoboa nigra mappable:1" ; Times: 1
+	Query: "Drymarchon corais mappable:1" ; Times: 1
+	Query: "Oxybelis aeneus mappable:1" ; Times: 1
+	Query: "Philodryas olfersii mappable:1" ; Times: 1
+	Query: "Helicops leopardinus mappable:1" ; Times: 1
+	Query: "Taeniophallus occipitalis mappable:1" ; Times: 1
+	Query: "Psomophis joberti mappable:1" ; Times: 1
+	Query: "Oxyrhopus rhombifer mappable:1" ; Times: 1
+	Query: "Bothrops lutzi" ; Times: 1
+	Query: "Mastigodryas bifossatus mappable:1" ; Times: 1
+	Query: "Boa constrictor mappable:1" ; Times: 1
+	Query: "Tropidurus helenae" ; Times: 14
+	Query: "Araucaria" ; Times: 1
+	Query: "45407" ; Times: 1
+	Query: "Bothrops jararacussu mappable:1" ; Times: 2
+	Query: "Phimophis guerini mappable:1" ; Times: 1
+	Query: "Erythrolamprus miliaris mappable:1" ; Times: 1
+	Query: "bothrops lutzi" ; Times: 1
+	Query: "Xenodon nattereri mappable:1" ; Times: 1
+	Query: "Epicrates assisi mappable:1" ; Times: 1
+	Query: "Lachesis muta" ; Times: 2
+	Query: "Chironius exoletus mappable:1" ; Times: 1
+	Query: "bothrops jararacussu mappable:1" ; Times: 1
+	Query: "genus:mesoclemmys" ; Times: 1
+	Query: "Bothrops pauloensis" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 809 download events in this period)
+Total number of records downloaded: 275
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Germany ; Times: 2
+	Country: India ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-03 ; Times: 1
+	Date: 2018-12-21 ; Times: 1
+	Date: 2018-12-23 ; Times: 1
+	Date: 2018-12-28 ; Times: 1
+	Date: 2018-12-17 ; Times: 1
+	Date: 2018-12-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Testudines" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "helicops" ; Times: 1
+	Query: "crotalus durissus" ; Times: 1
+	Query: "vntype:specimen class:reptilia AND (NOT PARATYPE) hastypestatus:1" ; Times: 1
+	Query: "specificepithet:gigas genus:Hydrodynastes" ; Times: 1
+
+
+End of report.
