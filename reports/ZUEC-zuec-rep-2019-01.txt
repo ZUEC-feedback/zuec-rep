@@ -1,0 +1,73 @@
+Report for Institution Code ZUEC, Resource zuec-rep
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 27
+Number of records retrieved in searches: 327
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Bonaire ; Times: 2
+	Country: Peru ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 14
+	Country: Colombia ; Times: 1
+	Country: Belgium ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-28 ; Times: 2
+	Date: 2019-01-17 ; Times: 1
+	Date: 2019-01-18 ; Times: 1
+	Date: 2019-01-06 ; Times: 1
+	Date: 2019-01-04 ; Times: 2
+	Date: 2019-01-14 ; Times: 5
+	Date: 2019-01-20 ; Times: 2
+	Date: 2019-01-16 ; Times: 4
+	Date: 2019-01-22 ; Times: 1
+	Date: 2019-01-13 ; Times: 5
+	Date: 2019-01-21 ; Times: 2
+	Date: 2019-01-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Castilho" ; Times: 1
+	Query: "stateprovince:&#34;Distrito Federal&#34; country:&#34;Brasil&#34;" ; Times: 1
+	Query: "(Aniella OR Abronia OR Anguis OR Celestus OR Diploglossus OR Gerrhonotus OR Ophisaurus OR Ophiodes OR Elgaria OR Dopasia OR Coloptychon OR Barisia OR Mesaspis) institutioncode:ZUEC" ; Times: 2
+	Query: "Teodoro Sampaio" ; Times: 1
+	Query: "specificepithet:lineatus genus:Lygophis" ; Times: 1
+	Query: "thecadactylus rapicauda" ; Times: 2
+	Query: "kentropyx vanzoi" ; Times: 1
+	Query: "specificepithet:iguana genus:iguana year &gt;= 1980 year &lt;= 1990 month &gt;= 2 month &lt;= 5" ; Times: 1
+	Query: "Anomalepis" ; Times: 1
+	Query: "Cerdocyon thous mappable:1" ; Times: 1
+	Query: "Hoplocercus spinosus" ; Times: 1
+	Query: "specificepithet:neuwiedii genus:Pseudoboa AND (NOT MEXICO)" ; Times: 1
+	Query: "specificepithet:melanocephala genus:Tantilla AND (NOT AMNH)" ; Times: 4
+	Query: "specificepithet:neuwiedii genus:Pseudoboa" ; Times: 1
+	Query: "specificepithet:melanocephala genus:Tantilla AND (NOT AMNH) institutioncode:ZUEC" ; Times: 1
+	Query: "Chrysocyon brachyurus" ; Times: 1
+	Query: "specificepithet:melanocephala genus:Tantilla year &gt;= 1980 year &lt;= 2019" ; Times: 1
+	Query: "anilius" ; Times: 2
+	Query: "mabuya frenata" ; Times: 1
+	Query: "specificepithet:melanocephala genus:Tantilla" ; Times: 1
+	Query: "Rupornis magnirostris" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 962 download events in this period)
+Total number of records downloaded: 12
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-25 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "recordedby:Maria basisofrecord:PreservedSpecimen" ; Times: 2
+
+
+End of report.
