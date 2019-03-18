@@ -1,0 +1,77 @@
+Report for Institution Code ZUEC, Resource zuec-rep
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 24
+Number of records retrieved in searches: 64
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 9
+	Country: United States ; Times: 8
+	Country: Israel ; Times: 1
+	Country: Colombia ; Times: 4
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-04 ; Times: 2
+	Date: 2019-02-03 ; Times: 2
+	Date: 2019-02-25 ; Times: 1
+	Date: 2019-02-13 ; Times: 2
+	Date: 2019-02-27 ; Times: 2
+	Date: 2019-02-06 ; Times: 3
+	Date: 2019-02-10 ; Times: 3
+	Date: 2019-02-17 ; Times: 1
+	Date: 2019-02-23 ; Times: 3
+	Date: 2019-02-08 ; Times: 1
+	Date: 2019-02-09 ; Times: 1
+	Date: 2019-02-28 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "tantilla melanocephala" ; Times: 1
+	Query: "Anomalepis" ; Times: 4
+	Query: "atractus albuquerquei" ; Times: 1
+	Query: "catalognumber:1688" ; Times: 2
+	Query: "Liolaemus occipitalis" ; Times: 1
+	Query: "Eunectes mappable:1" ; Times: 1
+	Query: "Apostolepis assimilis" ; Times: 1
+	Query: "Corallus mappable:1" ; Times: 1
+	Query: "Chrysocyon brachyurus mappable:1" ; Times: 5
+	Query: "Sordellina punctata" ; Times: 1
+	Query: "Epicrates mappable:1" ; Times: 1
+	Query: "specificepithet:aestiva genus:philodryas" ; Times: 1
+	Query: "Chrysocyon brachyurus" ; Times: 1
+	Query: "Drymarchon corais OR (melanurus) NOT (couperi) NOT (USA)" ; Times: 1
+	Query: "genus:Phyllopezus year &gt;= 2000" ; Times: 1
+	Query: "Drymarchon corais OR (melanurus) NOT (couperi) NOT (USA) NOT (United States)" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 1227 download events in this period)
+Total number of records downloaded: 189
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Brazil ; Times: 2
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-25 ; Times: 2
+	Date: 2019-02-10 ; Times: 1
+	Date: 2019-02-12 ; Times: 1
+	Date: 2019-02-17 ; Times: 1
+	Date: 2019-02-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "tantilla melanocephala" ; Times: 1
+	Query: "Tarentola mauritanica" ; Times: 1
+	Query: "cerdocyon thous" ; Times: 1
+	Query: "Apostolepis assimilis" ; Times: 1
+	Query: "Chrysocyon brachyurus" ; Times: 1
+	Query: "genus:Chironius" ; Times: 1
+
+
+End of report.
