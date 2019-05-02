@@ -1,0 +1,93 @@
+Report for Institution Code ZUEC, Resource zuec-rep
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 49
+Number of records retrieved in searches: 575
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 18
+	Country: United States ; Times: 6
+	Country: Mexico ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Belgium ; Times: 3
+	Country: Argentina ; Times: 20
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-19 ; Times: 1
+	Date: 2019-04-18 ; Times: 2
+	Date: 2019-04-02 ; Times: 3
+	Date: 2019-04-23 ; Times: 3
+	Date: 2019-04-03 ; Times: 8
+	Date: 2019-04-15 ; Times: 1
+	Date: 2019-04-04 ; Times: 4
+	Date: 2019-04-30 ; Times: 3
+	Date: 2019-04-21 ; Times: 1
+	Date: 2019-04-01 ; Times: 15
+	Date: 2019-04-24 ; Times: 2
+	Date: 2019-04-25 ; Times: 3
+	Date: 2019-04-29 ; Times: 1
+	Date: 2019-04-27 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Spilotes pullatus mappable:1" ; Times: 1
+	Query: "Cercosaura schreibersii mappable:1" ; Times: 1
+	Query: "Cerdocyon thous mappable:1" ; Times: 6
+	Query: "Ameivula ocellifera mappable:1" ; Times: 1
+	Query: "lachesis muta" ; Times: 1
+	Query: "amphisbaena alba" ; Times: 1
+	Query: "Bachia bresslaui mappable:1" ; Times: 1
+	Query: "catalognumber:1297" ; Times: 2
+	Query: "Uracentron azureum" ; Times: 1
+	Query: "Aspronema dorsivittatum mappable:1" ; Times: 1
+	Query: "Apostolepis" ; Times: 2
+	Query: "Registro" ; Times: 1
+	Query: "Oxyrhopus" ; Times: 1
+	Query: "genus:Ophiodes basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Polychrus acutirostris mappable:1" ; Times: 1
+	Query: "Ophiodes striatus" ; Times: 3
+	Query: "Clelia clelia mappable:1" ; Times: 1
+	Query: "Notomabuya frenata mappable:1" ; Times: 1
+	Query: "Leptophis ahaetulla mappable:1" ; Times: 1
+	Query: "Oxyrhopus petolarius mappable:1" ; Times: 1
+	Query: "specificepithet:crocodilus genus:Caiman" ; Times: 1
+	Query: "Tropidurus itambere mappable:1" ; Times: 1
+	Query: "Echinanthera" ; Times: 1
+	Query: "specificepithet:iguana genus:iguana year &gt;= 1980 year &lt;= 1990 month &gt;= 2 month &lt;= 5" ; Times: 1
+	Query: "Stenocercus caducus mappable:1" ; Times: 1
+	Query: "Cercosaura ocellata mappable:1" ; Times: 1
+	Query: "Salvator duseni mappable:1" ; Times: 1
+	Query: "Boa constrictor mappable:1" ; Times: 1
+	Query: "Micrablepharus atticolus mappable:1" ; Times: 1
+	Query: "Salvator merianae mappable:1" ; Times: 1
+	Query: "Drymarchon corais mappable:1" ; Times: 1
+	Query: "Chrysocyon brachyurus mappable:1" ; Times: 3
+	Query: "Tropidurus torquatus mappable:1" ; Times: 1
+	Query: "Bothrops cotiara" ; Times: 3
+	Query: "Thecadactylus rapicauda mappable:1" ; Times: 1
+	Query: "Bachia bresslaui" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 1263 download events in this period)
+Total number of records downloaded: 61
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-12 ; Times: 1
+	Date: 2019-04-18 ; Times: 2
+	Date: 2019-04-26 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Cycloramphus" ; Times: 1
+	Query: "lachesis" ; Times: 2
+	Query: "Echinanthera" ; Times: 2
+
+
+End of report.
