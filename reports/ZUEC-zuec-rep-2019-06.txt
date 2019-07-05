@@ -1,0 +1,188 @@
+Report for Institution Code ZUEC, Resource zuec-rep
+Usage stats for June 2019, generated on 2019/07/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 140
+Number of records retrieved in searches: 1250
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 114
+	Country: Brazil ; Times: 24
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-20 ; Times: 2
+	Date: 2019-06-21 ; Times: 4
+	Date: 2019-06-19 ; Times: 1
+	Date: 2019-06-26 ; Times: 4
+	Date: 2019-06-08 ; Times: 1
+	Date: 2019-06-09 ; Times: 1
+	Date: 2019-06-06 ; Times: 5
+	Date: 2019-06-07 ; Times: 2
+	Date: 2019-06-05 ; Times: 6
+	Date: 2019-06-11 ; Times: 90
+	Date: 2019-06-03 ; Times: 4
+	Date: 2019-06-13 ; Times: 2
+	Date: 2019-06-10 ; Times: 11
+	Date: 2019-06-30 ; Times: 2
+	Date: 2019-06-12 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Hoplocercus specificepithet:spinosus" ; Times: 1
+	Query: "genus:Coleodactylus specificepithet:meridionalis" ; Times: 1
+	Query: "genus:Lygophis specificepithet:meridionalis" ; Times: 1
+	Query: "genus:Oxyrhopus specificepithet:petolarius" ; Times: 1
+	Query: "genus:Siphlophis specificepithet:longicaudatus" ; Times: 1
+	Query: "specificepithet:cenchoa genus:Imantodes" ; Times: 3
+	Query: "genus:Tropidodryas specificepithet:serra" ; Times: 1
+	Query: "genus:Heterodactylus specificepithet:imbricatus" ; Times: 1
+	Query: "genus:Gonatodes specificepithet:humeralis" ; Times: 1
+	Query: "genus:Thamnodynastes specificepithet:pallidus" ; Times: 1
+	Query: "genus:Spilotes specificepithet:pullatus" ; Times: 1
+	Query: "Mesoclemmys hogei" ; Times: 1
+	Query: "genus:Anisolepis specificepithet:undulatus" ; Times: 1
+	Query: "genus:Dracaena specificepithet:guianensis" ; Times: 2
+	Query: "catalognumber:2342" ; Times: 1
+	Query: "genus:Imantodes specificepithet:cenchoa" ; Times: 1
+	Query: "genus:Hydrodynastes specificepithet:gigas" ; Times: 1
+	Query: "genus:Sibynomorphus specificepithet:neuwiedi" ; Times: 1
+	Query: "genus:Oxyrhopus specificepithet:clathratus" ; Times: 1
+	Query: "genus:Pseudoboa specificepithet:neuwiedii" ; Times: 1
+	Query: "genus:Micrablepharus specificepithet:maximiliani" ; Times: 1
+	Query: "genus:Bothrops specificepithet:moojeni" ; Times: 2
+	Query: "genus:Philodryas specificepithet:aestiva" ; Times: 1
+	Query: "Bothrops neuwiedi" ; Times: 2
+	Query: "genus:Kentropyx specificepithet:calcarata" ; Times: 1
+	Query: "genus:Simophis specificepithet:rhinostoma" ; Times: 1
+	Query: "genus:Cercosaura specificepithet:ocellata" ; Times: 1
+	Query: "Caiman latirostris" ; Times: 4
+	Query: "genus:Plica specificepithet:plica" ; Times: 1
+	Query: "Micrurus decoratus" ; Times: 1
+	Query: "genus:Oxybelis specificepithet:fulgidus" ; Times: 1
+	Query: "Siagonodon septemstriatus" ; Times: 1
+	Query: "Micrurus lemniscatus" ; Times: 3
+	Query: "genus:Echinanthera specificepithet:melanostigma" ; Times: 1
+	Query: "genus:Drymoluber specificepithet:dichrous" ; Times: 1
+	Query: "genus:Coleodactylus specificepithet:brachystoma" ; Times: 1
+	Query: "genus:Helicops specificepithet:leopardinus" ; Times: 1
+	Query: "genus:Corallus specificepithet:caninus" ; Times: 1
+	Query: "genus:Uromacerina specificepithet:ricardinii" ; Times: 1
+	Query: "genus:Sordellina specificepithet:punctata" ; Times: 1
+	Query: "genus:Phalotris specificepithet:mertensi" ; Times: 1
+	Query: "genus:Dipsas specificepithet:catesbyi" ; Times: 1
+	Query: "genus:Chironius specificepithet:carinatus" ; Times: 1
+	Query: "genus:Vanzosaura specificepithet:rubricauda" ; Times: 1
+	Query: "genus:Nothopsis specificepithet:rugosus" ; Times: 1
+	Query: "genus:Dipsas specificepithet:albifrons" ; Times: 1
+	Query: "genus:Tomodon specificepithet:dorsatus" ; Times: 1
+	Query: "genus:Taeniophallus specificepithet:brevirostris" ; Times: 1
+	Query: "genus:Apostolepis specificepithet:assimilis" ; Times: 1
+	Query: "genus:Bothrops specificepithet:sp" ; Times: 2
+	Query: "genus:Leptophis specificepithet:ahaetulla" ; Times: 1
+	Query: "genus:Thecadactylus specificepithet:rapicauda" ; Times: 2
+	Query: "genus:Phyllopezus specificepithet:pollicaris" ; Times: 1
+	Query: "genus:Thamnodynastes specificepithet:strigatus" ; Times: 1
+	Query: "genus:Taeniophallus specificepithet:affinis" ; Times: 1
+	Query: "Drymarchon corais mappable:1" ; Times: 1
+	Query: "genus:Philodryas specificepithet:patagoniensis" ; Times: 1
+	Query: "Liotyphlops ternetzii" ; Times: 2
+	Query: "genus:Chironius specificepithet:fuscus" ; Times: 1
+	Query: "genus:Helicops specificepithet:angulatus" ; Times: 1
+	Query: "genus:Leposoma specificepithet:scincoides" ; Times: 1
+	Query: "genus:Boiruna specificepithet:maculata" ; Times: 1
+	Query: "Micrurus averyi" ; Times: 1
+	Query: "genus:anilius year &gt;= 1990" ; Times: 1
+	Query: "genus:Anilius specificepithet:scytale" ; Times: 1
+	Query: "Felipe Martins" ; Times: 2
+	Query: "genus:Xenopholis specificepithet:scalaris" ; Times: 1
+	Query: "genus:Philodryas specificepithet:psammophidea" ; Times: 1
+	Query: "genus:Epicrates specificepithet:cenchria" ; Times: 1
+	Query: "eunectes" ; Times: 1
+	Query: "Micrurus ibiboboca" ; Times: 1
+	Query: "genus:anilius" ; Times: 2
+	Query: "genus:Philodryas specificepithet:olfersii" ; Times: 1
+	Query: "genus:Atractus specificepithet:reticulatus" ; Times: 1
+	Query: "genus:Polychrus specificepithet:marmoratus" ; Times: 1
+	Query: "genus:Pseudoboa specificepithet:nigra" ; Times: 1
+	Query: "genus:Colobodactylus specificepithet:taunayi" ; Times: 1
+	Query: "genus:Gymnodactylus specificepithet:geckoides" ; Times: 1
+	Query: "genus:Siphlophis specificepithet:pulcher" ; Times: 1
+	Query: "genus:Eretmochelys specificepithet:imbricata" ; Times: 1
+	Query: "hydrodynastes gigas" ; Times: 1
+	Query: "Anilius" ; Times: 1
+	Query: "genus:Diploglossus specificepithet:fasciatus" ; Times: 1
+	Query: "Micrurus langsdorffi" ; Times: 1
+	Query: "genus:Ecpleopus specificepithet:gaudichaudii" ; Times: 1
+	Query: "genus:Dipsas specificepithet:indica" ; Times: 1
+	Query: "genus:Drepanoides specificepithet:anomalus" ; Times: 1
+	Query: "genus:Aspronema specificepithet:dorsivittata" ; Times: 1
+	Query: "genus:Tropidodryas specificepithet:striaticeps" ; Times: 1
+	Query: "genus:Podocnemis specificepithet:unifilis" ; Times: 1
+	Query: "Micrurus frontalis" ; Times: 1
+	Query: "genus:Psychosaura specificepithet:macrorhyncha" ; Times: 1
+	Query: "genus:Erythrolamprus specificepithet:aesculapii" ; Times: 1
+	Query: "genus:Drymobius specificepithet:rhombifer" ; Times: 1
+	Query: "genus:Eunectes specificepithet:murinus" ; Times: 2
+	Query: "Hydrodynastes" ; Times: 1
+	Query: "genus:Psomophis specificepithet:joberti" ; Times: 1
+	Query: "genus:Boa specificepithet:constrictor" ; Times: 1
+	Query: "genus:Xenodon specificepithet:neuwiedii" ; Times: 1
+	Query: "specificepithet:melanogenys genus:Oxyrhopus" ; Times: 1
+	Query: "genus:Taeniophallus specificepithet:occipitalis" ; Times: 1
+	Query: "genus:Norops" ; Times: 1
+	Query: "genus:Xenopholis specificepithet:undulatus" ; Times: 1
+	Query: "BUNNY" ; Times: 1
+	Query: "Trilepida koppesi" ; Times: 1
+	Query: "Micrurus tricolor" ; Times: 1
+	Query: "hydrodynastes" ; Times: 4
+	Query: "Trilepida brasiliensis" ; Times: 1
+	Query: "genus:Elapomorphus specificepithet:quinquelineatus" ; Times: 1
+	Query: "genus:Helicops specificepithet:infrataeniatus" ; Times: 1
+	Query: "genus:Oxyrhopus specificepithet:rhombifer" ; Times: 1
+	Query: "genus:Philodryas specificepithet:nattereri" ; Times: 1
+	Query: "Amerotyphlops brongersmianus" ; Times: 1
+	Query: "genus:Platemys specificepithet:platycephala" ; Times: 1
+	Query: "genus:Siphlophis specificepithet:compressus" ; Times: 1
+	Query: "genus:Phrynops specificepithet:geoffroanus" ; Times: 1
+	Query: "Ouro Preto" ; Times: 1
+	Query: "genus:Dipsas specificepithet:pavonina" ; Times: 1
+	Query: "genus:Clelia specificepithet:clelia" ; Times: 1
+	Query: "ber" ; Times: 1
+	Query: "genus:Oxyrhopus specificepithet:guibei" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 1182 download events in this period)
+Total number of records downloaded: 237
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United States ; Times: 9
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-21 ; Times: 4
+	Date: 2019-06-22 ; Times: 1
+	Date: 2019-06-08 ; Times: 2
+	Date: 2019-06-26 ; Times: 2
+	Date: 2019-06-30 ; Times: 1
+	Date: 2019-06-29 ; Times: 1
+	Date: 2019-06-11 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "eunectes" ; Times: 1
+	Query: "Hydrodynastes" ; Times: 2
+	Query: "Imantodes cenchoa" ; Times: 1
+	Query: "Micrurus lemniscatus" ; Times: 2
+	Query: "thamnodynastes" ; Times: 1
+	Query: "Natrix maura" ; Times: 1
+	Query: "Tupinambis teguixin" ; Times: 2
+	Query: "Anilius" ; Times: 1
+	Query: "Caiman latirostris" ; Times: 2
+	Query: "specificepithet:cenchoa genus:Imantodes" ; Times: 1
+
+
+End of report.
