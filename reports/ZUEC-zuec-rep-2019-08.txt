@@ -1,0 +1,104 @@
+Report for Institution Code ZUEC, Resource zuec-rep
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 88
+Number of records retrieved in searches: 678
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 19
+	Country: United Kingdom ; Times: 5
+	Country: United States ; Times: 61
+	Country: Peru ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-12 ; Times: 1
+	Date: 2019-08-06 ; Times: 1
+	Date: 2019-08-22 ; Times: 3
+	Date: 2019-08-19 ; Times: 1
+	Date: 2019-08-15 ; Times: 2
+	Date: 2019-08-08 ; Times: 5
+	Date: 2019-08-02 ; Times: 4
+	Date: 2019-08-14 ; Times: 3
+	Date: 2019-08-05 ; Times: 7
+	Date: 2019-08-28 ; Times: 3
+	Date: 2019-08-09 ; Times: 1
+	Date: 2019-08-26 ; Times: 10
+	Date: 2019-08-27 ; Times: 9
+	Date: 2019-08-24 ; Times: 3
+	Date: 2019-08-31 ; Times: 8
+	Date: 2019-08-30 ; Times: 23
+	Date: 2019-08-20 ; Times: 1
+	Date: 2019-08-21 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Micrurus lemniscatus" ; Times: 1
+	Query: "specificepithet:pollicaris genus:Phyllopezus institutioncode:ZUEC" ; Times: 6
+	Query: "caiman latirostris" ; Times: 1
+	Query: "specificepithet:humeralis genus:Gonatodes institutioncode:ZUEC" ; Times: 6
+	Query: "specificepithet:hasemani genus:Gonatodes institutioncode:ZUEC" ; Times: 6
+	Query: "specificepithet:brachystoma genus:Coleodactylus institutioncode:ZUEC" ; Times: 6
+	Query: "specificepithet:rapicauda genus:Thecadactylus institutioncode:ZUEC" ; Times: 5
+	Query: "Rupornis magnirostris" ; Times: 2
+	Query: "order:Testudines institutioncode:ZUEC" ; Times: 2
+	Query: "specificepithet:geckoides genus:Gymnodactylus institutioncode:ZUEC" ; Times: 6
+	Query: "Drymarchon corais" ; Times: 6
+	Query: "Micrurus langsdorffi" ; Times: 1
+	Query: "Tropidurus oreadicus" ; Times: 1
+	Query: "Dama dama" ; Times: 1
+	Query: "coleodactylus meridionalis" ; Times: 1
+	Query: "Caiman yacare mappable:1" ; Times: 2
+	Query: "Cerdocyon thous mappable:1" ; Times: 2
+	Query: "paleosuchus vntype:specimen" ; Times: 1
+	Query: "specificepithet:darwinii genus:Gymnodactylus institutioncode:ZUEC" ; Times: 6
+	Query: "paleosuchus" ; Times: 2
+	Query: "specificepithet:meridionalis genus:Coleodactylus institutioncode:ZUEC" ; Times: 6
+	Query: "copeoglossum" ; Times: 1
+	Query: "Itararé" ; Times: 1
+	Query: "genus:Amerotyphlops specificepithet:brongersmianus" ; Times: 1
+	Query: "Leptodactylus ocellatus" ; Times: 1
+	Query: "Nystalus maculatus" ; Times: 1
+	Query: "Callichthys callichthys" ; Times: 1
+	Query: "genus:Leposternon specificepithet:microcephalum" ; Times: 1
+	Query: "Typhlops reticulatus" ; Times: 1
+	Query: "Chrysocyon brachyurus mappable:1" ; Times: 2
+	Query: "Tropidurus erythrocephalus" ; Times: 1
+	Query: "Bachia bresslaui" ; Times: 4
+	Query: "Vanellus chilensis" ; Times: 1
+	Query: "CAIMAN LATIROSTRIS" ; Times: 1
+	Query: "specificepithet:infrataeniatus genus:helicops" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 1034 download events in this period)
+Total number of records downloaded: 1403
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: United States ; Times: 1
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-02 ; Times: 4
+	Date: 2019-08-05 ; Times: 1
+	Date: 2019-08-25 ; Times: 1
+	Date: 2019-08-22 ; Times: 2
+	Date: 2019-08-20 ; Times: 1
+	Date: 2019-08-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Dipsadidae" ; Times: 1
+	Query: "Micrurus lemniscatus" ; Times: 1
+	Query: "typhlops" ; Times: 1
+	Query: "TROPIDURUS ETHERIDGEI" ; Times: 1
+	Query: "Tropidurus etheridgei" ; Times: 1
+	Query: "Tropidurus erythrocephalus" ; Times: 1
+	Query: "Bachia bresslaui" ; Times: 2
+	Query: "Oxybelis aeneus" ; Times: 1
+	Query: "paleosuchus vntype:specimen" ; Times: 1
+
+
+End of report.
