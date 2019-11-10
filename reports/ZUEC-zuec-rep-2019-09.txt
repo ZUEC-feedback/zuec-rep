@@ -1,0 +1,220 @@
+Report for Institution Code ZUEC, Resource zuec-rep
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 218
+Number of records retrieved in searches: 2188
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 135
+	Country: United States ; Times: 69
+	Country: Australia ; Times: 1
+	Country: Panama ; Times: 2
+	Country: United Kingdom ; Times: 7
+	Country: Argentina ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-20 ; Times: 8
+	Date: 2019-09-16 ; Times: 4
+	Date: 2019-09-17 ; Times: 3
+	Date: 2019-09-10 ; Times: 4
+	Date: 2019-09-11 ; Times: 6
+	Date: 2019-09-27 ; Times: 1
+	Date: 2019-09-26 ; Times: 2
+	Date: 2019-09-18 ; Times: 9
+	Date: 2019-09-19 ; Times: 10
+	Date: 2019-09-09 ; Times: 104
+	Date: 2019-09-08 ; Times: 2
+	Date: 2019-09-23 ; Times: 6
+	Date: 2019-09-03 ; Times: 19
+	Date: 2019-09-25 ; Times: 6
+	Date: 2019-09-06 ; Times: 24
+	Date: 2019-09-05 ; Times: 1
+	Date: 2019-09-04 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "Micrurus lemniscatus mappable:1" ; Times: 1
+	Query: "Hyla minuta mappable:1" ; Times: 2
+	Query: "Rhachidelus brazili mappable:1" ; Times: 1
+	Query: "Philodryas patagoniensis mappable:1" ; Times: 1
+	Query: "specificepithet:pollicaris genus:Phyllopezus institutioncode:ZUEC" ; Times: 5
+	Query: "Bothrops urutu mappable:1" ; Times: 1
+	Query: "Oxybelis fulgidus mappable:1" ; Times: 1
+	Query: "Bothrops bilineatus mappable:1" ; Times: 1
+	Query: "Erythrolamprus reginae mappable:1" ; Times: 1
+	Query: "Polychrus acutirostris mappable:1" ; Times: 1
+	Query: "Sibynomorphus mikanii mappable:1" ; Times: 1
+	Query: "Corallus hortulanus mappable:1" ; Times: 1
+	Query: "Boiruna maculata mappable:1" ; Times: 1
+	Query: "Clelia clelia mappable:1" ; Times: 1
+	Query: "Erythrolamprus typhlus mappable:1" ; Times: 1
+	Query: "Mastigodryas bifossatus mappable:1" ; Times: 1
+	Query: "phrynops mappable:1" ; Times: 1
+	Query: "Atractus pantostictus mappable:1" ; Times: 1
+	Query: "Erythrolamprus cobella mappable:1" ; Times: 1
+	Query: "Clelia plumbea mappable:1" ; Times: 1
+	Query: "Drymoluber dichrous" ; Times: 1
+	Query: "Amerotyphlops brongersmianus mappable:1" ; Times: 1
+	Query: "Drymobius rhombifer" ; Times: 1
+	Query: "Dipsas catesbyi mappable:1" ; Times: 1
+	Query: "Drymarchon corais" ; Times: 20
+	Query: "Pseudoboa neuwiedii mappable:1" ; Times: 1
+	Query: "Oxyrhopus guibei mappable:1" ; Times: 1
+	Query: "Anilius scytale" ; Times: 3
+	Query: "Micrurus frontalis frontalis mappable:1" ; Times: 1
+	Query: "Helicops carinicaudus mappable:1" ; Times: 1
+	Query: "Apostolepis assimilis mappable:1" ; Times: 1
+	Query: "Kentropyx calcarata mappable:1" ; Times: 1
+	Query: "Micrurus decoratus" ; Times: 1
+	Query: "Bothrops neuwiedi paranaensis mappable:1" ; Times: 1
+	Query: "Erythrolamprus aesculapii mappable:1" ; Times: 1
+	Query: "Simophis rhinostoma mappable:1" ; Times: 1
+	Query: "mastigodryas bifossatus" ; Times: 1
+	Query: "Tropidurus guarani mappable:1" ; Times: 1
+	Query: "Bothrops itapetiningae mappable:1" ; Times: 1
+	Query: "bothrops alternatus" ; Times: 1
+	Query: "Drepanoides anomalus mappable:1" ; Times: 1
+	Query: "specificepithet:hasemani genus:Gonatodes institutioncode:ZUEC" ; Times: 5
+	Query: "Spilotes pullatus anomalepis mappable:1" ; Times: 1
+	Query: "Erythrolamprus frenatus mappable:1" ; Times: 1
+	Query: "Spilotes pullatus pullatus mappable:1" ; Times: 1
+	Query: "Siphlophis compressus mappable:1" ; Times: 1
+	Query: "Chironius foveatus" ; Times: 1
+	Query: "Kentropyx vanzoi mappable:1" ; Times: 1
+	Query: "Epicrates assisi mappable:1" ; Times: 1
+	Query: "specificepithet:geckoides genus:Gymnodactylus institutioncode:ZUEC" ; Times: 5
+	Query: "Physalaemus  cuvieri mappable:1" ; Times: 1
+	Query: "Bothrops moojeni mappable:1" ; Times: 1
+	Query: "Xenodon merremii mappable:1" ; Times: 1
+	Query: "Liophis poecilogyrus mappable:1" ; Times: 1
+	Query: "Drymarchon corais mappable:1" ; Times: 1
+	Query: "Micrurus averyi" ; Times: 1
+	Query: "Erythrolamprus poecilogyrus mappable:1" ; Times: 1
+	Query: "Taeniophallus occipitalis mappable:1" ; Times: 1
+	Query: "Psomophis joberti mappable:1" ; Times: 1
+	Query: "Micrurus frontalis mappable:1" ; Times: 1
+	Query: "Epicrates crassus mappable:1" ; Times: 1
+	Query: "Oxyrhopus rhombifer mappable:1" ; Times: 1
+	Query: "Philodryas agassizii mappable:1" ; Times: 1
+	Query: "Boa constrictor mappable:1" ; Times: 1
+	Query: "Micrablepharus atticolus mappable:1" ; Times: 2
+	Query: "Caiman latirostris" ; Times: 7
+	Query: "Taeniophallus brevirostris mappable:1" ; Times: 1
+	Query: "Thamnodynastes pallidus mappable:1" ; Times: 1
+	Query: "Chironius exoletus mappable:1" ; Times: 1
+	Query: "Tantilla melanocephala melanocephala mappable:1" ; Times: 1
+	Query: "Lygophis meridionalis mappable:1" ; Times: 1
+	Query: "anilius scytale" ; Times: 3
+	Query: "Helicops angulatus mappable:1" ; Times: 1
+	Query: "Liotyphlops ternetzii mappable:1" ; Times: 1
+	Query: "Micrurus ibiboboca" ; Times: 1
+	Query: "Liophis miliaris mappable:1" ; Times: 1
+	Query: "Leptodeira annulata mappable:1" ; Times: 1
+	Query: "Bachia bresslaui mappable:1" ; Times: 1
+	Query: "Phalotris lativittatus mappable:1" ; Times: 1
+	Query: "Trilepida koppesi mappable:1" ; Times: 1
+	Query: "Philodryas aestiva mappable:1" ; Times: 1
+	Query: "Erythrolamprus almadensis mappable:1" ; Times: 1
+	Query: "specificepithet:brachystoma genus:Coleodactylus institutioncode:ZUEC" ; Times: 5
+	Query: "specificepithet:rapicauda genus:Thecadactylus institutioncode:ZUEC" ; Times: 3
+	Query: "Bothrops atrox mappable:1" ; Times: 1
+	Query: "Hydromedusa maximiliani" ; Times: 2
+	Query: "Bothrops neuwiedi urutu mappable:1" ; Times: 1
+	Query: "Platemys platycephala" ; Times: 2
+	Query: "Kentropyx paulensis mappable:1" ; Times: 1
+	Query: "Epicrates cenchria cenchria mappable:1" ; Times: 1
+	Query: "Bothrops neuwiedi goyazensis mappable:1" ; Times: 1
+	Query: "Spilotes pullatus mappable:1" ; Times: 1
+	Query: "Philodryas nattereri mappable:1" ; Times: 1
+	Query: "Phimophis guerini mappable:1" ; Times: 1
+	Query: "Oxybelis aeneus mappable:1" ; Times: 1
+	Query: "Oxyrhopus melanogenys mappable:1" ; Times: 1
+	Query: "Anilius" ; Times: 1
+	Query: "specificepithet:meridionalis genus:Coleodactylus institutioncode:ZUEC" ; Times: 5
+	Query: "Bothrops jararaca mappable:1" ; Times: 2
+	Query: "Chironius multiventris mappable:1" ; Times: 1
+	Query: "Chironius fuscus mappable:1" ; Times: 1
+	Query: "Chironius quadricarinatus mappable:1" ; Times: 1
+	Query: "Hoplocercus spinosus mappable:1" ; Times: 2
+	Query: "Bothrops neuwiedi pauloensis mappable:1" ; Times: 1
+	Query: "Hydromedusa mappable:1" ; Times: 1
+	Query: "Thamnodynastes hypoconia mappable:1" ; Times: 1
+	Query: "Dipsas indica mappable:1" ; Times: 1
+	Query: "Hydrodynastes" ; Times: 2
+	Query: "Oxyrhopus petolarius" ; Times: 2
+	Query: "Oxyrhopus trigeminus mappable:1" ; Times: 1
+	Query: "coleção" ; Times: 1
+	Query: "Siagonodon septemstriatus mappable:1" ; Times: 1
+	Query: "Lachesis muta muta mappable:1" ; Times: 1
+	Query: "impetiginosa Tabebuia" ; Times: 3
+	Query: "Tantilla melanocephala mappable:1" ; Times: 1
+	Query: "Hydrodynastes gigas mappable:1" ; Times: 1
+	Query: "specificepithet:humeralis genus:Gonatodes institutioncode:ZUEC" ; Times: 5
+	Query: "Epicrates cenchria mappable:1" ; Times: 1
+	Query: "Lachesis muta mappable:1" ; Times: 1
+	Query: "Lygophis lineatus mappable:1" ; Times: 1
+	Query: "Bothrops neuwiedi neuwiedi mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:latirostris genus:Caiman" ; Times: 1
+	Query: "Bothrops neuwiedi mappable:1" ; Times: 1
+	Query: "Mesoclemmys mappable:1" ; Times: 1
+	Query: "Crotalus durissus mappable:1" ; Times: 1
+	Query: "Bothrops pauloensis mappable:1" ; Times: 1
+	Query: "Leptophis ahaetulla mappable:1" ; Times: 1
+	Query: "Xenopholis undulatus mappable:1" ; Times: 1
+	Query: "Oxyrhopus petolarius mappable:1" ; Times: 1
+	Query: "( Ubajara)" ; Times: 2
+	Query: "Chironius flavolineatus mappable:1" ; Times: 1
+	Query: "Liotyphlops beui mappable:1" ; Times: 1
+	Query: "Pseudoboa nigra mappable:1" ; Times: 1
+	Query: "Dipsas incerta" ; Times: 1
+	Query: "Philodryas olfersii mappable:1" ; Times: 1
+	Query: "specificepithet:darwinii genus:Gymnodactylus institutioncode:ZUEC" ; Times: 5
+	Query: "Helicops leopardinus mappable:1" ; Times: 1
+	Query: "Salvator duseni mappable:1" ; Times: 1
+	Query: "Clelia clelia plumbea mappable:1" ; Times: 1
+	Query: "Drymoluber dichrous mappable:1" ; Times: 1
+	Query: "Erythrolamprus miliaris mappable:1" ; Times: 1
+	Query: "Micrablepharus maximiliani mappable:1" ; Times: 1
+	Query: "Anilius scytale mappable:1" ; Times: 1
+	Query: "Xenodon nattereri mappable:1" ; Times: 1
+	Query: "Thamnodynastes strigilis mappable:1" ; Times: 1
+	Query: "Chironius laevicollis" ; Times: 1
+	Query: "Drymarchon corais corais mappable:1" ; Times: 1
+	Query: "Chironius fuscus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 1073 download events in this period)
+Total number of records downloaded: 47
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Brazil ; Times: 5
+	Country: Australia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-21 ; Times: 1
+	Date: 2019-09-30 ; Times: 1
+	Date: 2019-09-11 ; Times: 3
+	Date: 2019-09-19 ; Times: 2
+	Date: 2019-09-09 ; Times: 2
+	Date: 2019-09-08 ; Times: 1
+	Date: 2019-09-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:iguana genus:Iguana" ; Times: 1
+	Query: "Caiman latirostris" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Drymobius rhombifer" ; Times: 1
+	Query: "Chironius laevicollis" ; Times: 1
+	Query: "Dipsas incerta" ; Times: 1
+	Query: "caiman crocodilus" ; Times: 1
+	Query: "Zonotrichia capensis" ; Times: 1
+	Query: "Chironius foveatus" ; Times: 1
+	Query: "anilius scytale" ; Times: 2
+
+
+End of report.
