@@ -1,0 +1,74 @@
+Report for Institution Code ZUEC, Resource zuec-rep
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 29
+Number of records retrieved in searches: 205
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+	Country: Brazil ; Times: 9
+	Country: Australia ; Times: 2
+	Country: United Kingdom ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-17 ; Times: 1
+	Date: 2020-02-10 ; Times: 1
+	Date: 2020-02-13 ; Times: 5
+	Date: 2020-02-06 ; Times: 1
+	Date: 2020-02-07 ; Times: 2
+	Date: 2020-02-04 ; Times: 9
+	Date: 2020-02-19 ; Times: 2
+	Date: 2020-02-09 ; Times: 1
+	Date: 2020-02-28 ; Times: 3
+	Date: 2020-02-21 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:hasemani genus:Gonatodes institutioncode:ZUEC" ; Times: 1
+	Query: "Tantilla melanocephala" ; Times: 2
+	Query: "specificepithet:brachystoma genus:Coleodactylus institutioncode:ZUEC" ; Times: 1
+	Query: "specificepithet:mauritanica genus:Tarentola institutioncode:ZUEC" ; Times: 1
+	Query: "specificepithet:rapicauda genus:Thecadactylus institutioncode:ZUEC" ; Times: 1
+	Query: "Lygodactylus klugei" ; Times: 2
+	Query: "tantilla boipiranga" ; Times: 1
+	Query: "Tropidurus semitaeniatus" ; Times: 4
+	Query: "specificepithet:meridionalis genus:Coleodactylus institutioncode:ZUEC" ; Times: 1
+	Query: "eunectes murinus" ; Times: 4
+	Query: "pantostictus" ; Times: 1
+	Query: "specificepithet:darwinii genus:Gymnodactylus institutioncode:ZUEC" ; Times: 1
+	Query: "drymoluber dichrous" ; Times: 1
+	Query: "specificepithet:geckoides genus:Gymnodactylus institutioncode:ZUEC" ; Times: 1
+	Query: "gymnodactylus geckoides" ; Times: 2
+	Query: "specificepithet:pollicaris genus:Phyllopezus institutioncode:ZUEC" ; Times: 1
+	Query: "specificepithet:humeralis genus:Gonatodes institutioncode:ZUEC" ; Times: 1
+	Query: "catalognumber:832" ; Times: 1
+	Query: "anilius scytale" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 1023 download events in this period)
+Total number of records downloaded: 158
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Brazil ; Times: 2
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-10 ; Times: 1
+	Date: 2020-02-13 ; Times: 1
+	Date: 2020-02-28 ; Times: 2
+	Date: 2020-02-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "eunectes murinus" ; Times: 1
+	Query: "Tantilla melanocephala" ; Times: 1
+	Query: "Anguidae" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "anilius scytale" ; Times: 1
+
+
+End of report.
