@@ -1,0 +1,82 @@
+Report for Institution Code ZUEC, Resource zuec-rep
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 73
+Number of records retrieved in searches: 560
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 59
+	Country: Brazil ; Times: 6
+	Country: United Kingdom ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-29 ; Times: 9
+	Date: 2020-01-28 ; Times: 20
+	Date: 2020-01-07 ; Times: 1
+	Date: 2020-01-06 ; Times: 1
+	Date: 2020-01-05 ; Times: 1
+	Date: 2020-01-14 ; Times: 4
+	Date: 2020-01-16 ; Times: 2
+	Date: 2020-01-31 ; Times: 2
+	Date: 2020-01-10 ; Times: 1
+	Date: 2020-01-24 ; Times: 10
+	Date: 2020-01-27 ; Times: 9
+	Date: 2020-01-13 ; Times: 5
+	Date: 2020-01-26 ; Times: 7
+	Date: 2020-01-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:hasemani genus:Gonatodes institutioncode:ZUEC" ; Times: 6
+	Query: "Cobra" ; Times: 2
+	Query: "specificepithet:brachystoma genus:Coleodactylus institutioncode:ZUEC" ; Times: 7
+	Query: "specificepithet:rapicauda genus:Thecadactylus institutioncode:ZUEC" ; Times: 5
+	Query: "specificepithet:darwinii genus:Gymnodactylus institutioncode:ZUEC" ; Times: 6
+	Query: "Cerdocyon thous mappable:1" ; Times: 4
+	Query: "Drymobius rhombifer" ; Times: 1
+	Query: "genus:Tantilla boipiranga" ; Times: 2
+	Query: "Chrysocyon brachyurus mappable:1" ; Times: 4
+	Query: "dipsas incerta" ; Times: 1
+	Query: "specificepithet:meridionalis genus:Coleodactylus institutioncode:ZUEC" ; Times: 7
+	Query: "Lygodactylus wetzeli" ; Times: 2
+	Query: "specificepithet:geckoides genus:Gymnodactylus institutioncode:ZUEC" ; Times: 6
+	Query: "Chironius multiventris" ; Times: 2
+	Query: "specificepithet:pollicaris genus:Phyllopezus institutioncode:ZUEC" ; Times: 6
+	Query: "specificepithet:humeralis genus:Gonatodes institutioncode:ZUEC" ; Times: 6
+	Query: "Cananéia" ; Times: 2
+	Query: "specificepithet:mauritanica genus:Tarentola institutioncode:ZUEC" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 1584 download events in this period)
+Total number of records downloaded: 284
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 7
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-19 ; Times: 1
+	Date: 2020-01-21 ; Times: 1
+	Date: 2020-01-31 ; Times: 3
+	Date: 2020-01-25 ; Times: 1
+	Date: 2020-01-24 ; Times: 2
+	Date: 2020-01-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Tarentola mauritanica" ; Times: 1
+	Query: "Iguana iguana" ; Times: 1
+	Query: "Thecadactylus rapicauda" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Hemidactylus mabouia" ; Times: 1
+	Query: "Drymobius rhombifer" ; Times: 1
+	Query: "Tropidurus hispidus" ; Times: 1
+	Query: "Salvator merianae" ; Times: 1
+	Query: "Oxybelis aeneus" ; Times: 1
+
+
+End of report.
