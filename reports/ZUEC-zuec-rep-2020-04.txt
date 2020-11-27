@@ -1,0 +1,101 @@
+Report for Institution Code ZUEC, Resource zuec-rep
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 55
+Number of records retrieved in searches: 305
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: United Kingdom ; Times: 31
+	Country: Australia ; Times: 2
+	Country: United States ; Times: 8
+	Country: Paraguay ; Times: 4
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-13 ; Times: 1
+	Date: 2020-04-12 ; Times: 2
+	Date: 2020-04-11 ; Times: 2
+	Date: 2020-04-16 ; Times: 1
+	Date: 2020-04-15 ; Times: 1
+	Date: 2020-04-14 ; Times: 6
+	Date: 2020-04-23 ; Times: 1
+	Date: 2020-04-20 ; Times: 1
+	Date: 2020-04-07 ; Times: 19
+	Date: 2020-04-01 ; Times: 4
+	Date: 2020-04-03 ; Times: 7
+	Date: 2020-04-21 ; Times: 4
+	Date: 2020-04-08 ; Times: 3
+	Date: 2020-04-09 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Vanellus chilensis" ; Times: 6
+	Query: "THAMNODYNASTES" ; Times: 1
+	Query: "specificepithet:neuwiedii genus:Pseudoboa" ; Times: 3
+	Query: "specificepithet:dichrous genus:Drymoluber" ; Times: 2
+	Query: "munoai" ; Times: 2
+	Query: "Anomalepididae" ; Times: 2
+	Query: "Cichlasoma dimerus" ; Times: 2
+	Query: "Hydromedusa maximiliani" ; Times: 1
+	Query: "eunectes murinus" ; Times: 1
+	Query: "Rupornis magnirostris" ; Times: 4
+	Query: "Podocnemis unifilis" ; Times: 6
+	Query: "Buteo albicaudatus" ; Times: 5
+	Query: "Dama dama" ; Times: 3
+	Query: "Caiman crocodilus" ; Times: 3
+	Query: "specificepithet:fulgidus genus:Oxybelis" ; Times: 1
+	Query: "rhizophora mangle" ; Times: 1
+	Query: "norops trachyderma" ; Times: 1
+	Query: "THAMNODYNASTES hypoconia" ; Times: 2
+	Query: "Callichthys callichthys" ; Times: 2
+	Query: "mangle" ; Times: 1
+	Query: "Paleosuchus palpebrosus" ; Times: 2
+	Query: "specificepithet:fasciatus genus:Diploglossus" ; Times: 2
+	Query: "Caiman latirostris" ; Times: 1
+	Query: "Thamnodynastes hypoconia" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 1171 download events in this period)
+Total number of records downloaded: 42
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Panama ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Spain ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-04 ; Times: 1
+	Date: 2020-04-18 ; Times: 3
+	Date: 2020-04-12 ; Times: 1
+	Date: 2020-04-10 ; Times: 1
+	Date: 2020-04-16 ; Times: 2
+	Date: 2020-04-22 ; Times: 1
+	Date: 2020-04-05 ; Times: 1
+	Date: 2020-04-20 ; Times: 1
+	Date: 2020-04-29 ; Times: 1
+	Date: 2020-04-08 ; Times: 1
+	Date: 2020-04-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:suspectum genus:Heloderma" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 3
+	Query: "Eleutherodactylus" ; Times: 1
+	Query: "chelonia mydas" ; Times: 1
+	Query: "eretmochelys" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "caiman crocodilus" ; Times: 1
+	Query: "Paleosuchus palpebrosus" ; Times: 1
+	Query: "specificepithet:fulgidus genus:Oxybelis" ; Times: 1
+	Query: "&#34;Iguana iguana&#34;" ; Times: 1
+	Query: "Caiman latirostris" ; Times: 1
+	Query: "clelia clelia" ; Times: 1
+
+
+End of report.
