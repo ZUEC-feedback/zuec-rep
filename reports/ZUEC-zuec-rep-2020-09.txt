@@ -1,0 +1,79 @@
+Report for Institution Code ZUEC, Resource zuec-rep
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 45
+Number of records retrieved in searches: 600
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 13
+	Country: Australia ; Times: 1
+	Country: Unknown ; Times: 16
+	Country: France ; Times: 1
+	Country: United States ; Times: 11
+	Country: Peru ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-14 ; Times: 3
+	Date: 2020-09-20 ; Times: 6
+	Date: 2020-09-16 ; Times: 1
+	Date: 2020-09-10 ; Times: 2
+	Date: 2020-09-26 ; Times: 1
+	Date: 2020-09-29 ; Times: 6
+	Date: 2020-09-28 ; Times: 1
+	Date: 2020-09-18 ; Times: 5
+	Date: 2020-09-19 ; Times: 11
+	Date: 2020-09-08 ; Times: 6
+	Date: 2020-09-25 ; Times: 2
+	Date: 2020-09-05 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Atractus pantostictus" ; Times: 2
+	Query: "echinanthera amoena" ; Times: 6
+	Query: "specificepithet:pollicaris genus:Phyllopezus institutioncode:ZUEC" ; Times: 2
+	Query: "oxybelis fulgidus" ; Times: 1
+	Query: "specificepithet:mauritanica genus:Tarentola institutioncode:ZUEC" ; Times: 2
+	Query: "specificepithet:rapicauda genus:Thecadactylus institutioncode:ZUEC" ; Times: 2
+	Query: "mappable:1 scientificname:Ophiodes fragilis" ; Times: 4
+	Query: "mappable:1 scientificname:Ophiodes sp. 1" ; Times: 1
+	Query: "mappable:1 scientificname:Ophiodes sp. 2" ; Times: 1
+	Query: "specificepithet:geckoides genus:Gymnodactylus institutioncode:ZUEC" ; Times: 2
+	Query: "mappable:1 scientificname:Ophiodes sp." ; Times: 3
+	Query: "ZUEC 2748" ; Times: 1
+	Query: "mappable:1 scientificname:Ophiodes striatus" ; Times: 4
+	Query: "Taeniophallus affinis" ; Times: 2
+	Query: "specificepithet:darwinii genus:Gymnodactylus institutioncode:ZUEC" ; Times: 2
+	Query: "MCN" ; Times: 1
+	Query: "Echinanthera amoena" ; Times: 1
+	Query: "Tupinambis merianae" ; Times: 1
+	Query: "mata atlantica" ; Times: 1
+	Query: "caiman crocodilus" ; Times: 1
+	Query: "Helicops modestus" ; Times: 1
+	Query: "mappable:1 scientificname:Ophiodes sp.1" ; Times: 1
+	Query: "mappable:1 scientificname:Ophiodes sp.2" ; Times: 2
+	Query: "Oxybelis fulgidus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 976 download events in this period)
+Total number of records downloaded: 11
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-03 ; Times: 1
+	Date: 2020-09-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "leptodactylidae" ; Times: 1
+	Query: "oxyrhopus petolarius" ; Times: 1
+
+
+End of report.
