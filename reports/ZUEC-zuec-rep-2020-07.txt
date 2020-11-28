@@ -1,0 +1,121 @@
+Report for Institution Code ZUEC, Resource zuec-rep
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 55
+Number of records retrieved in searches: 329
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 23
+	Country: Mexico ; Times: 8
+	Country: Finland ; Times: 1
+	Country: United States ; Times: 5
+	Country: Sweden ; Times: 2
+	Country: Germany ; Times: 11
+	Country: Colombia ; Times: 3
+	Country: Argentina ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-23 ; Times: 6
+	Date: 2020-07-22 ; Times: 1
+	Date: 2020-07-21 ; Times: 2
+	Date: 2020-07-19 ; Times: 3
+	Date: 2020-07-27 ; Times: 4
+	Date: 2020-07-24 ; Times: 2
+	Date: 2020-07-01 ; Times: 1
+	Date: 2020-07-05 ; Times: 1
+	Date: 2020-07-10 ; Times: 1
+	Date: 2020-07-11 ; Times: 2
+	Date: 2020-07-16 ; Times: 7
+	Date: 2020-07-04 ; Times: 1
+	Date: 2020-07-07 ; Times: 4
+	Date: 2020-07-20 ; Times: 12
+	Date: 2020-07-03 ; Times: 6
+	Date: 2020-07-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Clelia clelia" ; Times: 2
+	Query: "Brazil Prata" ; Times: 1
+	Query: "Chapadão" ; Times: 1
+	Query: "Epictia rufidorsa" ; Times: 1
+	Query: "lachesis muta" ; Times: 1
+	Query: "Tropidophis taczanowskyi" ; Times: 1
+	Query: "anfibio" ; Times: 2
+	Query: "genus:Tropidodryas year &gt;= 2010 year &lt;= 2020" ; Times: 1
+	Query: "Prata" ; Times: 2
+	Query: "Xenodon merremii" ; Times: 1
+	Query: "crotalus durissus terrificus" ; Times: 1
+	Query: "Chironius foveatus" ; Times: 1
+	Query: "Chironius flavolineatus" ; Times: 1
+	Query: "tropidodryas" ; Times: 1
+	Query: "gato" ; Times: 1
+	Query: "Chrysocyon brachyurus" ; Times: 2
+	Query: "corallus" ; Times: 1
+	Query: "Chironius multiventris" ; Times: 2
+	Query: "Helicops angulatus" ; Times: 1
+	Query: "Eurolophosaurus nanuzae" ; Times: 6
+	Query: "corallus caninus" ; Times: 5
+	Query: "helicops angulatus" ; Times: 1
+	Query: "Dama dama" ; Times: 2
+	Query: "Chironius laurenti" ; Times: 1
+	Query: "genus:Coleodactylus family:Sphaerodactylidae" ; Times: 2
+	Query: "drepanoides anomalus" ; Times: 1
+	Query: "Eunectes murinus murinus" ; Times: 1
+	Query: "Rio Seco brazil" ; Times: 1
+	Query: "prata" ; Times: 1
+	Query: "chironius bicarinatus" ; Times: 4
+	Query: "Chironius laevicollis" ; Times: 1
+	Query: "lystrophis" ; Times: 1
+	Query: "anilius" ; Times: 1
+	Query: "Chironius fuscus" ; Times: 1
+	Query: "Chironius quadricarinatus" ; Times: 1
+	Query: "zabele" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 23 (out of 940 download events in this period)
+Total number of records downloaded: 1440
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 15
+	Country: United States ; Times: 4
+	Country: Australia ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-20 ; Times: 11
+	Date: 2020-07-27 ; Times: 2
+	Date: 2020-07-13 ; Times: 4
+	Date: 2020-07-10 ; Times: 1
+	Date: 2020-07-11 ; Times: 1
+	Date: 2020-07-16 ; Times: 2
+	Date: 2020-07-04 ; Times: 1
+	Date: 2020-07-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "elapidae" ; Times: 1
+	Query: "Chironius quadricarinatus" ; Times: 1
+	Query: "Clelia clelia" ; Times: 2
+	Query: "cerdocyon thous" ; Times: 1
+	Query: "Thecadactylus rapicauda" ; Times: 1
+	Query: "Viperidae" ; Times: 1
+	Query: "class:Reptilia haslength:1" ; Times: 1
+	Query: "Cerdocyon thous" ; Times: 1
+	Query: "chironius bicarinatus" ; Times: 2
+	Query: "Chironius foveatus" ; Times: 1
+	Query: "Chironius flavolineatus" ; Times: 1
+	Query: "viperidae" ; Times: 1
+	Query: "Chironius laevicollis" ; Times: 1
+	Query: "chironius carinatus" ; Times: 1
+	Query: "Chrysocyon brachyurus" ; Times: 1
+	Query: "genus:Trachemys" ; Times: 1
+	Query: "Chironius fuscus" ; Times: 1
+	Query: "Colubridae" ; Times: 1
+	Query: "Chironius exoletus" ; Times: 1
+	Query: "Chironius multiventris" ; Times: 1
+	Query: "Chironius laurenti" ; Times: 1
+
+
+End of report.
