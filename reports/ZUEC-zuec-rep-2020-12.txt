@@ -1,0 +1,96 @@
+Report for Institution Code ZUEC, Resource zuec-rep
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 40
+Number of records retrieved in searches: 175
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 17
+	Country: Peru ; Times: 14
+	Country: Panama ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Bolivia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-26 ; Times: 2
+	Date: 2020-12-20 ; Times: 2
+	Date: 2020-12-22 ; Times: 13
+	Date: 2020-12-04 ; Times: 3
+	Date: 2020-12-09 ; Times: 2
+	Date: 2020-12-07 ; Times: 1
+	Date: 2020-12-11 ; Times: 1
+	Date: 2020-12-05 ; Times: 3
+	Date: 2020-12-13 ; Times: 1
+	Date: 2020-12-14 ; Times: 1
+	Date: 2020-12-15 ; Times: 2
+	Date: 2020-12-01 ; Times: 5
+	Date: 2020-12-17 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Bothrops mattogrossensis" ; Times: 2
+	Query: "Chironius fuscus" ; Times: 1
+	Query: "Buteo albicaudatus" ; Times: 1
+	Query: "Pseudoboa neuwiedii" ; Times: 2
+	Query: "Dama dama" ; Times: 7
+	Query: "Bothrops brazili" ; Times: 3
+	Query: "genus:Drymarchon year &gt;= 2000" ; Times: 1
+	Query: "Tupinambis merianae" ; Times: 1
+	Query: "Acanthochelys macrocephala" ; Times: 1
+	Query: "Bothrops neuwiedi" ; Times: 4
+	Query: "Lachesis muta" ; Times: 1
+	Query: "micrablepharus atticolus" ; Times: 1
+	Query: "Salvator merianae" ; Times: 4
+	Query: "genus:Hoplocercus" ; Times: 1
+	Query: "Bothriechis schlegelii" ; Times: 5
+	Query: "Anilius" ; Times: 1
+	Query: "bothrops moojeni" ; Times: 1
+	Query: "genus:hydromedusa" ; Times: 1
+	Query: "catalognumber:3433 institutioncode:ZUEC" ; Times: 1
+	Query: "specificepithet:hortulanus genus:Corallus country:&#34;Colombia&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 705 download events in this period)
+Total number of records downloaded: 737
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 5
+	Country: Panama ; Times: 1
+	Country: United States ; Times: 4
+	Country: Colombia ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-04 ; Times: 1
+	Date: 2020-12-20 ; Times: 1
+	Date: 2020-12-23 ; Times: 5
+	Date: 2020-12-22 ; Times: 2
+	Date: 2020-12-07 ; Times: 1
+	Date: 2020-12-13 ; Times: 1
+	Date: 2020-12-14 ; Times: 2
+	Date: 2020-12-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Tarentola mauritanica" ; Times: 2
+	Query: "Iguana iguana" ; Times: 1
+	Query: "Viperidae" ; Times: 1
+	Query: "Natrix maura" ; Times: 1
+	Query: "Lachesis muta" ; Times: 1
+	Query: "Ameiva ameiva" ; Times: 1
+	Query: "bothrops moojeni" ; Times: 1
+	Query: "specificepithet:hortulanus genus:Corallus country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Anilius" ; Times: 2
+	Query: "micrablepharus atticolus" ; Times: 1
+	Query: "Hemidactylus mabouia" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+
+
+End of report.
